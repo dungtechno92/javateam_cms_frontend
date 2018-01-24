@@ -8,7 +8,7 @@ In my project
 First.
 	clone my project by code
 
-		https://github.com/dungtechno92/javateam_cms_frontend.git	
+		git clone https://github.com/dungtechno92/javateam_cms_frontend.git	
 
 	setup yarn you can use npm too.
 		setup yarn in here : https://yarnpkg.com/lang/en/docs/install/		
