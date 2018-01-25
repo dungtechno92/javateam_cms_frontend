@@ -61,11 +61,11 @@ export default class HomePage extends React.Component {
         return (
             <div>
                 <button onClick={this.DashbroadHander}>Dashbroad</button>
-                <button onClick={this.ListmemberHander}>Detailmember</button>
-                <button onClick={this.DetailmemberHander}>Dashbroad</button>
-                <button onClick={this.MettingHander}>Dashbroad</button>
-                <button onClick={this.ResourceHander}>Dashbroad</button>
-                <button onClick={this.ScheduleHander}>Dashbroad</button>
+                <button onClick={this.ListmemberHander}>Listmember</button>
+                <button onClick={this.DetailmemberHander}>Detailmember</button>
+                <button onClick={this.MettingHander}>Metting</button>
+                <button onClick={this.ResourceHander}>Resource</button>
+                <button onClick={this.ScheduleHander}>Schedule</button>
             </div>
         )
     }
